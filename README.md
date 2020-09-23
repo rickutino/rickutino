@@ -2,10 +2,10 @@
  
 # Welcome!
  
-## 内野リカルドです
+## Ricardo Utino
  
-主にフロントエンドをやりながらバックエンドやモバイルとUI/UXとDevopsなどに興味があり日々に学習をしています。</br>
-出身はブラジルで中１から日本に住み約１７年間が立っています
+
+I'm fullstack (beginner) I love programming now focused on the Front-end with JS TypeScript React and React Native
 
  
  
