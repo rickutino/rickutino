@@ -1,3 +1,9 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=rickutino&show_icons=true&theme=dracula&hide_title=true)
+&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickutino&layout=compact&theme=dracula)
+<br><br>
+
+
 <img align="right" width="400" height="400" src="https://media.indiedb.com/images/articles/1/194/193883/auto/8SrDsGf.gif">
  
 # Welcome!
