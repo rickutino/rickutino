@@ -1,5 +1,5 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=rickutino&show_icons=true&theme=dracula&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickutino&layout=compact&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=rickutino&show_icons=true&theme=light&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickutino&layout=compact&theme=light)
 <br><br>
 
 
