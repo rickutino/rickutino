@@ -10,7 +10,7 @@
 ## Ricardo Utino
  
 
-I'm fullstack (beginner) I love programming now focused on the Front-end with JS TypeScript React and React Native
+I'm fullstack (beginner) I love programming 
 
  
  
