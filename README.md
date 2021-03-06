@@ -9,8 +9,7 @@
  
 ## Ricardo Utino
  
-
-I'm fullstack (beginner) I love programming 
+Ruby on Rails developer. Rocketseat GoStack Bootcamp alumni, learning Javascript, React and React Native.
 
  
  
