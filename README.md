@@ -9,7 +9,7 @@
  
 ## Ricardo Utino
  
-Ruby on Rails developer. Rocketseat GoStack Bootcamp alumni, learning Javascript, React and React Native.
+React developer. Rocketseat GoStack Bootcamp alumni, learning Javascript, React and Nodejs.
 
  
  
