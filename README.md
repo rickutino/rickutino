@@ -9,7 +9,7 @@
  
 ## Ricardo Utino
  
-React developer. Rocketseat GoStack Bootcamp alumni, learning Javascript, React and Nodejs.
+React developer. Rocketseat GoStack Bootcamp alumni, learning Typescript, React, React Native and Nodejs.
 
  
  
